@@ -1,16 +1,15 @@
-## Introduction  
-As part of my ongoing analytics journey, I explored international travel patterns to and from Canada using official data from **Statistics Canada**.  
-This project focuses on identifying how travel has evolved from **2021 to 2024**, analyzing traveller types, modes of transportation, and regional entry patterns.
+## Introduction
+International travel plays a vital role in shaping Canada’s economy, tourism, and border policies. As I continue my academic journey in Ontario, I became interested in exploring how people enter or return to Canada—and how patterns shift across provinces and traveller types.
 
-Key questions explored:
-- How has international travel volume changed month-by-month?
-- Which provinces receive the highest number of travellers?
-- What transportation modes are most commonly used?
-- Who are the travellers — tourists or returning residents?
+This project examines **international traveller movement into Canada from 2021 to 2024** using a dataset from **Statistics Canada**. It focuses on key variables such as **province of entry**, **traveller type** (excursionist vs tourist), and **traveller characteristics** (residency and mode of transportation).
 
-This analysis uses **Python** for data cleaning and transformation, **Seaborn & Matplotlib** for visualizations, and culminates in an **interactive dashboard** created in **Tableau**.
+By analyzing trends over time, we aim to identify:
+- Which provinces serve as the main points of entry?
+- Are certain traveller types more dominant?
+- How has the volume of travellers changed post-pandemic?
 
-Data Source: [Statistics Canada – International Travellers](https://doi.org/10.25318/2410005301-eng)
+The insights are valuable for **policymakers**, **transportation authorities**, and **businesses** seeking to better understand Canada's evolving travel landscape.
+
 
 
 ## Overview
