@@ -44,3 +44,21 @@ The analysis provides insights into:
 > *Note: Symbols like "..." in the original dataset were replaced with nulls and cleaned before analysis.*
 
 
+## Data Cleaning & Preprocessing
+### Loading the Dataset
+
+To begin the analysis, we loaded the dataset using `pandas`, a powerful Python library for data manipulation. The dataset was sourced from Statistics Canada and contains international traveller information categorized by geography, traveller type, and time period.
+
+```python
+import pandas as pd
+import numpy as np
+
+# Load the CSV file
+file_path = "Travel_data.csv"  # Make sure the file is in the same directory as your notebook
+df = pd.read_csv(file_path)
+
+# Preview the first few rows
+df.head()
+```
+
+
