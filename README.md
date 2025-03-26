@@ -10,7 +10,7 @@ Using official data from **Statistics Canada**, this project offers a breakdown 
 
 The insights are valuable for **policymakers**, **transportation authorities**, and **businesses** seeking to better understand Canada's evolving travel landscape.
 
--
+
 
 ## Overview
 
@@ -157,7 +157,7 @@ This section explores key trends and distributions within the dataset to uncover
 ### Key Visualization
 
 
-### How has international travel to Canada changed over time?
+## How has international travel to Canada changed over time?
 
 This line chart shows the **monthly trend** of travellers entering or returning to Canada between **January 2021 and December 2024**.
 
@@ -171,7 +171,7 @@ This line chart shows the **monthly trend** of travellers entering or returning 
 
 
 
-### Which provinces received the highest number of international travellers?
+## Which provinces received the highest number of international travellers?
 
 This horizontal bar chart displays the **top 10 provinces** with the highest number of international travellers entering or returning to Canada between **2021 and 2024**.
 
@@ -188,7 +188,7 @@ This horizontal bar chart displays the **top 10 provinces** with the highest num
 
 
 
-### How do traveller types vary over time in Canada?
+## How do traveller types vary over time in Canada?
 
 This line chart highlights the monthly trends of travellers entering or returning to Canada, separated by **Traveller Type**:
 
@@ -204,7 +204,7 @@ This line chart highlights the monthly trends of travellers entering or returnin
 
 
 
-### What are the top traveller groups entering or returning to Canada?
+## What are the top traveller groups entering or returning to Canada?
 
 This bar chart highlights the **top 10 traveller groups** entering or returning to Canada from 2021 to 2024, based on **residency status** and **mode of transport**:
 
