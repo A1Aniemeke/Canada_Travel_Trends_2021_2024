@@ -242,21 +242,18 @@ You can explore the interactive **Tableau Dashboard** here:
 
 
 ## Recommendations
-
-**For Tourists & Travellers:**
-- Plan visits during **spring or fall** to avoid peak travel periods and enjoy moderate weather.
-- Explore less-visited provinces for a more relaxed and affordable experience.
+**For Travellers:**
+- Visit during **off-peak seasons** (spring/fall) for affordability and comfort.
+- Explore **less-visited provinces** for unique and budget-friendly experiences.
 
 **For Policymakers:**
-- Enhance infrastructure and services in high-traffic provinces to accommodate growing traveller numbers.
-- Support **tourism marketing** and **seasonal travel incentives** to balance traffic throughout the year.
+- Invest in **infrastructure** and promote **seasonal incentives** to manage traveller flow.
 
 **For Border & Transport Authorities:**
-- Strengthen **land border efficiency**, especially along U.S. routes, to support continued high volumes.
-- Monitor travel surges to ensure **public safety** and **smooth entry processes**.
+- Improve **land border operations** and monitor peak periods for safety and efficiency.
 
 **For Future Research:**
-- Examine the impact of **travel restrictions**, **visa policies**, and **economic factors** on international mobility trends.
+- Explore how **policy, economics, and restrictions** influence travel patterns.
 
 
 
