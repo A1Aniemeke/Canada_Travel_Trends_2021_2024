@@ -12,6 +12,7 @@
 9. [Conclusion & Recommendations](#conclusion--recommendations)
 10. [Next Steps & Discussion](#next-steps--discussion)
 11. [References](#references)
+12. 12. [Connect with Me](#connect-with-me)
 
 
 
@@ -240,7 +241,9 @@ This bar chart highlights the **top 10 traveller groups** entering or returning 
 ---
 ### Tableau Dashboard
 
-You can explore the interactive **Tableau Dashboard** here: https://public.tableau.com/app/profile/anthony.aniemeke1923/viz/CanadaTravelTrends2021to2024/CanadaTravelTrends2021to2024?publish=yes
+You can explore the interactive **Tableau Dashboard** here: 
+[Canada Travel Trends (2021 to 2024)](https://public.tableau.com/app/profile/anthony.aniemeke1923/viz/CanadaTravelTrends2021to2024/CanadaTravelTrends2021to2024?publish=yes)
+
 ---
 
 ## Tools & Methods
@@ -301,4 +304,6 @@ Have you noticed similar trends or have ideas for further exploration? Let’s d
    *“How Do I Melt a Pandas DataFrame?”*  
    August 28, 2021. Retrieved from: [Link](https://stackoverflow.com/questions/11837545/using-pandas-melt)
 
+
+**Connect with me:** [LinkedIn](#) *(https://www.linkedin.com/in/anthony-aniemeke-699427222/)*
 
