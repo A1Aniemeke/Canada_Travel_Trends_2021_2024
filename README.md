@@ -1,12 +1,12 @@
 ## Introduction
-International travel plays a vital role in shaping Canada’s economy, tourism, and border policies. As I continue my academic journey in Ontario, I became interested in exploring how people enter or return to Canada—and how patterns shift across provinces and traveller types.
 
-This project examines **international traveller movement into Canada from 2021 to 2024** using a dataset from **Statistics Canada**. It focuses on key variables such as **province of entry**, **traveller type** (excursionist vs tourist), and **traveller characteristics** (residency and mode of transportation).
+Curious about how international travel has shifted over time, I explored the volume and nature of travellers entering or returning to Canada. With fluctuating travel regulations, pandemic recovery, and changing mobility trends, this analysis aims to answer:
 
-By analyzing trends over time, we aim to identify:
-- Which provinces serve as the main points of entry?
-- Are certain traveller types more dominant?
-- How has the volume of travellers changed post-pandemic?
+- How have **traveller volumes** changed from 2021 to 2024?
+- Which **provinces** receive the most international travellers?
+- What **types of travellers** are most common, and how do they enter the country?
+
+Using official data from **Statistics Canada**, this project offers a breakdown of travel trends by **province, travel type, and traveller characteristics**.
 
 The insights are valuable for **policymakers**, **transportation authorities**, and **businesses** seeking to better understand Canada's evolving travel landscape.
 
@@ -14,14 +14,15 @@ The insights are valuable for **policymakers**, **transportation authorities**, 
 
 ## Overview
 
-This project analyzes data on **international travellers entering or returning to Canada** from **January 2021 to December 2024**. The dataset, sourced from **Statistics Canada**, provides detailed information on:
+This project analyzes data from **Statistics Canada** on international travellers entering or returning to Canada between **2021 and 2024**. The dataset captures entries by **province**, **mode of transportation** (air, land, water), **traveller type** (excursionists vs tourists), and **traveller characteristics** (e.g., Canadian residents returning, U.S. residents, others).
 
-- **Geographic Entry Points**: Provinces and territories across Canada
-- **Traveller Type**: Excursionists (same-day) vs Tourists (overnight)
-- **Traveller Characteristics**: Residency (Canadian, American, others) and transportation mode (air, land, water)
-- **Temporal Trends**: Monthly breakdown of travel activity
+The analysis provides insights into:
 
-The aim is to uncover **travel trends**, highlight **provincial entry patterns**, and understand the **mobility of different traveller categories** — helping provide insights that are useful for policymakers, transport agencies, and tourism planning.
+- Monthly travel patterns and recovery trends post-2020
+- Provincial differences in travel volume
+- Distribution of traveller types and their modes of entry
+- Key traveller demographics entering Canada
+
 
 
 ## Dataset Information
