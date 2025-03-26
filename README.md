@@ -91,3 +91,61 @@ df_melted.head()
 | 4     | Newfoundland and Labrador | United States of America residents, water     | Excursionists (same-day)  | Jan-21      | 0                      |
 
 
+### Clean the "Number of Travellers" Column
+
+To prepare the data for analysis, we cleaned the `"Number of Travellers"` column by handling missing and invalid entries:
+
+```python
+# Clean the 'Number of Travellers' column
+df_melted["Number of Travellers"] = (
+    df_melted["Number of Travellers"]
+    .replace("...", np.nan)                  # Replace symbol legend
+    .replace(",", "", regex=True)            # Remove commas
+    .astype(str)                             # Ensure all are strings
+    .str.strip()                             # Remove extra spaces
+    .replace("", np.nan)                     # Replace empty strings
+    .astype(float)                           # Convert to float
+)
+
+# Drop rows with missing values
+df_melted.dropna(subset=["Number of Travellers"], inplace=True)
+
+# Check results
+df_melted.head()
+```
+
+
+### Convert "Month-Year" to a Proper Date Format
+
+To support time-based analysis, we converted the `"Month-Year"` column into a proper date format using monthly granularity:
+
+```python
+# Convert to datetime, then to period (monthly granularity)
+df_melted["Month_Year"] = pd.to_datetime(df_melted["Month-Year"], format="%b-%y").dt.to_period('M')
+
+# Drop original 'Month-Year' column if needed
+df_melted.drop(columns=["Month-Year"], inplace=True)
+
+# Preview
+df_melted.head()
+```
+
+
+### Check for Missing Values
+
+To ensure data completeness, we checked for missing values in each column after cleaning:
+
+```python
+# Count missing values in each column
+df_melted.isnull().sum()
+```
+#### Data Cleaning Results
+| Feature                    | Missing Values |
+|----------------------------|----------------|
+| Geography                  | 0              |
+| Traveller characteristics  | 0              |
+| Traveller type             | 0              |
+| Number of Travellers       | 0              |
+| Month_Year                 | 0              |
+
+
