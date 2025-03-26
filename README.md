@@ -12,7 +12,7 @@
 9. [Conclusion & Recommendations](#conclusion--recommendations)
 10. [Next Steps & Discussion](#next-steps--discussion)
 11. [References](#references)
-12. 12. [Connect with Me](#connect-with-me)
+12. [Connect with Me](#connect-with-me)
 
 
 
