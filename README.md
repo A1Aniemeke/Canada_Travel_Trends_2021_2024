@@ -43,6 +43,7 @@ The analysis provides insights into:
 
 > *Note: Symbols like "..." in the original dataset were replaced with nulls and cleaned before analysis.*
 
+---
 
 ## Data Cleaning & Preprocessing
 ### Loading the Dataset
@@ -60,5 +61,33 @@ df = pd.read_csv(file_path)
 # Preview the first few rows
 df.head()
 ```
+
+### Reshaping the Data
+
+The original dataset was in a wide format, with monthly columns spread across the sheet. To make the data easier to analyze, we reshaped it into a long format using the `melt` function. This transformation consolidated all month columns into two columns: `Month-Year` and `Number of Travellers`.
+
+```python
+# Identify date columns (starting from column index 3 onward)
+date_columns = df.columns[3:]
+
+# Melt the DataFrame to long format
+df_melted = df.melt(
+    id_vars=["Geography", "Traveller characteristics", "Traveller type"],
+    value_vars=date_columns,
+    var_name="Month-Year",
+    value_name="Number of Travellers"
+)
+
+# Preview the reshaped data
+df_melted.head()
+```
+#### Reshaped Data Preview
+| Index | Geography                 | Traveller characteristics                     | Traveller type            | Month-Year | Number of Travellers |
+|-------|---------------------------|-----------------------------------------------|----------------------------|-------------|------------------------|
+| 0     | Newfoundland and Labrador | United States of America residents, air       | Excursionists (same-day)  | Jan-21      | 151                    |
+| 1     | Newfoundland and Labrador | United States of America residents, air       | Tourists (overnight)      | Jan-21      | 17                     |
+| 2     | Newfoundland and Labrador | United States of America residents, land      | Excursionists (same-day)  | Jan-21      | ...                    |
+| 3     | Newfoundland and Labrador | United States of America residents, land      | Tourists (overnight)      | Jan-21      | ...                    |
+| 4     | Newfoundland and Labrador | United States of America residents, water     | Excursionists (same-day)  | Jan-21      | 0                      |
 
 
