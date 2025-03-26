@@ -1,3 +1,21 @@
+# Canada Travel Trends (2021 to 2024)
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Dataset Information](#dataset-information)
+4. [Data Cleaning & Processing](#data-cleaning--processing)
+5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+6. [Key Visualizations](#key-visualizations)
+7. [Tableau Dashboard](#tableau-dashboard)
+8. [Tools & Methods](#tools--methods)
+9. [Conclusion & Recommendations](#conclusion--recommendations)
+10. [Next Steps & Discussion](#next-steps--discussion)
+11. [References](#references)
+
+
+
+
 ## Introduction
 
 Curious about how international travel has shifted over time, I explored the volume and nature of travellers entering or returning to Canada. With fluctuating travel regulations, pandemic recovery, and changing mobility trends, this analysis aims to answer:
