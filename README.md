@@ -148,6 +148,7 @@ df_melted.isnull().sum()
 | Number of Travellers       | 0              |
 | Month_Year                 | 0              |
 
+---
 
 ## Exploratory Data Analysis (EDA)
 
@@ -166,3 +167,49 @@ This line chart shows the **monthly trend** of travellers entering or returning 
 - Peaks appear consistently during the **summer months** (June–August), indicating **seasonal travel patterns**.
 - A **significant surge** occurred mid-2023 and mid-2024, reaching over **9 million travellers** in peak months.
 - Travel volume **dipped during winter months**, possibly due to weather and post-holiday slowdowns.
+
+
+### Which provinces received the highest number of international travellers?
+
+This horizontal bar chart displays the **top 10 provinces** with the highest number of international travellers entering or returning to Canada between **2021 and 2024**.
+
+![Top 10 Provinces by Number of Travellers](https://github.com/user-attachments/assets/73314964-1760-4fa0-8e66-563c9a98f7cd)
+
+#### Key Observations:
+- **Ontario** leads by a wide margin, highlighting its role as the **primary entry hub**, likely due to **Pearson International Airport** and dense population.
+- **British Columbia** and **Quebec** follow closely, supported by major airports in **Vancouver** and **Montreal**.
+- Provinces like **Alberta**, **New Brunswick**, and **Manitoba** show moderate traveller volumes, reflecting regional traffic.
+- **Nova Scotia**, **Saskatchewan**, **Yukon**, and **Newfoundland and Labrador** round out the top 10, with significantly fewer travellers.
+- This filtered view improves focus by excluding territories with negligible counts.
+
+**Insight**: **Traveller volume is concentrated in a few provinces**, driven by infrastructure, tourism, and economic activity.
+
+
+### How do traveller types vary over time in Canada?
+
+This line chart highlights the monthly trends of travellers entering or returning to Canada, separated by **Traveller Type**:
+
+![Travel Trend by Traveller Type](https://github.com/user-attachments/assets/023a5d2c-2f67-45a8-8400-ccf47db64412)
+
+#### Key Observations:
+- **Tourists (overnight)** consistently make up a larger portion of total travellers compared to **Excursionists (same-day)**.
+- There is a clear **seasonal pattern**, with peaks typically occurring mid-year (summer months), which aligns with typical vacation periods.
+- Both categories saw a **steady recovery post-2021**, with visible dips during winter months.
+- The sharp growth in 2022–2024 reflects a rebound in international mobility, possibly due to **post-COVID border re-openings and relaxed travel restrictions**.
+
+**Insight**: Overnight tourism is a key component of Canada's international travel volume and is more sensitive to seasonal fluctuations.
+
+
+### What are the top traveller groups entering or returning to Canada?
+
+This bar chart highlights the **top 10 traveller groups** entering or returning to Canada from 2021 to 2024, based on **residency status** and **mode of transport**:
+
+![Traveller Characteristics](https://github.com/user-attachments/assets/9475a932-314b-45d5-b946-982b1874f381)
+
+#### Key Observations:
+- The **largest group** is *Canadian residents returning from the U.S. via land*, followed by *U.S. residents entering via land*.
+- **Air travel** is the second most dominant mode, especially among **Canadian returnees** and **foreign residents**.
+- **Land-based travel** clearly surpasses other modes in total volume.
+- Although included, **water travel** remains minimal, indicating **limited seasonal or niche usage**.
+
+**Insight**: **Land crossings**, particularly between Canada and the U.S., remain the **backbone of international mobility**, underscoring deep cross-border integration.
