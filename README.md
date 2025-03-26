@@ -156,6 +156,7 @@ This section explores key trends and distributions within the dataset to uncover
 
 ### Key Visualization
 
+
 ### How has international travel to Canada changed over time?
 
 This line chart shows the **monthly trend** of travellers entering or returning to Canada between **January 2021 and December 2024**.
@@ -167,6 +168,7 @@ This line chart shows the **monthly trend** of travellers entering or returning 
 - Peaks appear consistently during the **summer months** (June–August), indicating **seasonal travel patterns**.
 - A **significant surge** occurred mid-2023 and mid-2024, reaching over **9 million travellers** in peak months.
 - Travel volume **dipped during winter months**, possibly due to weather and post-holiday slowdowns.
+
 
 
 ### Which provinces received the highest number of international travellers?
@@ -185,6 +187,7 @@ This horizontal bar chart displays the **top 10 provinces** with the highest num
 **Insight**: **Traveller volume is concentrated in a few provinces**, driven by infrastructure, tourism, and economic activity.
 
 
+
 ### How do traveller types vary over time in Canada?
 
 This line chart highlights the monthly trends of travellers entering or returning to Canada, separated by **Traveller Type**:
@@ -198,6 +201,7 @@ This line chart highlights the monthly trends of travellers entering or returnin
 - The sharp growth in 2022–2024 reflects a rebound in international mobility, possibly due to **post-COVID border re-openings and relaxed travel restrictions**.
 
 **Insight**: Overnight tourism is a key component of Canada's international travel volume and is more sensitive to seasonal fluctuations.
+
 
 
 ### What are the top traveller groups entering or returning to Canada?
