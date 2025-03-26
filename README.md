@@ -10,7 +10,7 @@ Using official data from **Statistics Canada**, this project offers a breakdown 
 
 The insights are valuable for **policymakers**, **transportation authorities**, and **businesses** seeking to better understand Canada's evolving travel landscape.
 
-----
+------
 
 ## Overview
 
