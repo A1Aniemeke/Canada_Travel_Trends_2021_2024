@@ -217,3 +217,73 @@ This bar chart highlights the **top 10 traveller groups** entering or returning 
 - Although included, **water travel** remains minimal, indicating **limited seasonal or niche usage**.
 
 **Insight**: **Land crossings**, particularly between Canada and the U.S., remain the **backbone of international mobility**, underscoring deep cross-border integration.
+
+
+---
+## Tableau Dashboard
+
+You can explore the interactive **Tableau Dashboard** here:  
+---
+
+## Tools & Methods
+
+- **Python (Pandas, Matplotlib, Seaborn)** → Used for data cleaning, transformation, and exploratory analysis  
+- **Tableau Public** → Built an interactive dashboard to visualize trends and patterns  
+- **GitHub** → Repository for sharing cleaned code, documentation, and results
+
+
+## Conclusion
+
+- International travel to Canada steadily increased from 2021 to 2024, showing strong signs of recovery after the pandemic.  
+- Travel peaks were observed during **summer months**, confirming a **seasonal travel pattern**.  
+- **Ontario**, **British Columbia**, and **Quebec** received the highest number of travellers, highlighting their role as key entry points.  
+- **Tourists (overnight)** consistently outnumbered **Excursionists (same-day)**, emphasizing the importance of long-term visits to Canada's travel economy.  
+- **Land travel**, especially between **Canada and the U.S.**, accounted for the largest share of movement, reflecting deep cross-border integration.
+
+
+## Recommendations
+
+**For Tourists & Travellers:**
+- Plan visits during **spring or fall** to avoid peak travel periods and enjoy moderate weather.
+- Explore less-visited provinces for a more relaxed and affordable experience.
+
+**For Policymakers:**
+- Enhance infrastructure and services in high-traffic provinces to accommodate growing traveller numbers.
+- Support **tourism marketing** and **seasonal travel incentives** to balance traffic throughout the year.
+
+**For Border & Transport Authorities:**
+- Strengthen **land border efficiency**, especially along U.S. routes, to support continued high volumes.
+- Monitor travel surges to ensure **public safety** and **smooth entry processes**.
+
+**For Future Research:**
+- Examine the impact of **travel restrictions**, **visa policies**, and **economic factors** on international mobility trends.
+
+
+
+## Next Steps & Discussion
+
+This analysis reveals that **international travel to Canada is highly seasonal** and **concentrated in key provinces** like Ontario and British Columbia. 
+
+A notable insight was the **dominance of land-based travel from the U.S.**, especially by returning Canadian residents—highlighting strong cross-border ties.
+
+**Next Steps:**
+- Explore **demographic** or **purpose-based** travel patterns  
+- Compare **year-over-year trends** to capture post-pandemic recovery  
+- Merge with related datasets like **tourism revenue or airport stats**
+
+**Your Thoughts?**  
+Have you noticed similar trends or have ideas for further exploration? Let’s discuss!
+
+
+
+## References
+
+1. **Government of Canada, Statistics Canada**.  
+   *International travellers entering or returning to Canada, by type of transportation and traveller type (2021–2024).*  
+   Retrieved from: [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410001401)
+
+2. **Stack Overflow – U13-Forward**.  
+   *“How Do I Melt a Pandas DataFrame?”*  
+   August 28, 2021. Retrieved from: [Link](https://stackoverflow.com/questions/11837545/using-pandas-melt)
+
+
