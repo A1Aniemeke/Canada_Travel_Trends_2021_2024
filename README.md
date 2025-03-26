@@ -25,3 +25,22 @@ This project analyzes data on **international travellers entering or returning t
 The aim is to uncover **travel trends**, highlight **provincial entry patterns**, and understand the **mobility of different traveller categories** — helping provide insights that are useful for policymakers, transport agencies, and tourism planning.
 
 
+## Dataset Information
+
+- **Source**: [Statistics Canada – Table 24-10-0053-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410005301)
+- **Title**: *International travellers entering or returning to Canada, by type of transportation and traveller type*
+- **Time Frame**: January 2021 to December 2024
+- **Update Frequency**: Monthly
+
+### Key Variables
+- **Geography**: Province or territory of entry (e.g., Ontario, British Columbia)
+- **Traveller Characteristics**: Combines traveller residency and transportation mode (e.g., Canadian residents, air; U.S. residents, land)
+- **Traveller Type**: 
+  - *Excursionists (same-day)* 
+  - *Tourists (overnight)*
+- **Month-Year**: Monthly date of travel entry
+- **Number of Travellers**: Total number of individuals entering or returning to Canada for that group and month
+
+> *Note: Symbols like "..." in the original dataset were replaced with nulls and cleaned before analysis.*
+
+
