@@ -238,9 +238,9 @@ This bar chart highlights the **top 10 traveller groups** entering or returning 
 
 
 ---
-## Tableau Dashboard
+### Tableau Dashboard
 
-You can explore the interactive **Tableau Dashboard** here:  
+You can explore the interactive **Tableau Dashboard** here: https://public.tableau.com/app/profile/anthony.aniemeke1923/viz/CanadaTravelTrends2021to2024/CanadaTravelTrends2021to2024?publish=yes
 ---
 
 ## Tools & Methods
