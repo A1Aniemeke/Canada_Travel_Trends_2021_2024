@@ -149,3 +149,20 @@ df_melted.isnull().sum()
 | Month_Year                 | 0              |
 
 
+## Exploratory Data Analysis (EDA)
+
+This section explores key trends and distributions within the dataset to uncover patterns and insights related to international travel into Canada from 2021 to 2024.
+
+### Key Visualization
+
+### How has international travel to Canada changed over time?
+
+This line chart shows the **monthly trend** of travellers entering or returning to Canada between **January 2021 and December 2024**.
+
+![Total International Travllers ](https://github.com/user-attachments/assets/786fe7c1-9fde-4cbd-a066-890ad3d15f9f)
+
+#### Key Observations:
+- There was a **steady recovery** in travel volume after early 2021, likely due to **post-pandemic reopening**.
+- Peaks appear consistently during the **summer months** (June–August), indicating **seasonal travel patterns**.
+- A **significant surge** occurred mid-2023 and mid-2024, reaching over **9 million travellers** in peak months.
+- Travel volume **dipped during winter months**, possibly due to weather and post-holiday slowdowns.
