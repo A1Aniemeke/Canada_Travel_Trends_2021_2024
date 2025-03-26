@@ -11,3 +11,17 @@ Key questions explored:
 This analysis uses **Python** for data cleaning and transformation, **Seaborn & Matplotlib** for visualizations, and culminates in an **interactive dashboard** created in **Tableau**.
 
 Data Source: [Statistics Canada – International Travellers](https://doi.org/10.25318/2410005301-eng)
+
+
+## Overview
+
+This project analyzes data on **international travellers entering or returning to Canada** from **January 2021 to December 2024**. The dataset, sourced from **Statistics Canada**, provides detailed information on:
+
+- **Geographic Entry Points**: Provinces and territories across Canada
+- **Traveller Type**: Excursionists (same-day) vs Tourists (overnight)
+- **Traveller Characteristics**: Residency (Canadian, American, others) and transportation mode (air, land, water)
+- **Temporal Trends**: Monthly breakdown of travel activity
+
+The aim is to uncover **travel trends**, highlight **provincial entry patterns**, and understand the **mobility of different traveller categories** — helping provide insights that are useful for policymakers, transport agencies, and tourism planning.
+
+
