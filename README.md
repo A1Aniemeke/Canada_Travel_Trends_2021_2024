@@ -172,7 +172,7 @@ df_melted.isnull().sum()
 
 This section explores key trends and distributions within the dataset to uncover patterns and insights related to international travel into Canada from 2021 to 2024.
 
-### Key Visualization
+### Key Visualizations
 
 
 ## How has international travel to Canada changed over time?
